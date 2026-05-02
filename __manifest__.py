@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     "name": "Product Type Description",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "category": "Inventory/Inventory",
     "summary": "Searchable type description field on products",
     "description": """
